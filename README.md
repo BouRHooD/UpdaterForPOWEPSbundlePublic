@@ -1,2 +1,1 @@
 # UpdaterForPOWEPSbundlePublic
-test
